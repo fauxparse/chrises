@@ -1,0 +1,1755 @@
+[
+  {
+    "name": "Tony Stark/Iron Man",
+    "appearances": {
+      "Iron Man": {
+        "Robert Downey Jr": {
+          "time": 4635,
+          "gender": "men",
+          "hero": true
+        }
+      },
+      "The Incredible Hulk": {
+        "Robert Downey Jr": {
+          "time": 30,
+          "gender": "men",
+          "hero": true
+        }
+      },
+      "Iron Man 2": {
+        "Robert Downey Jr": {
+          "time": 3675,
+          "gender": "men",
+          "hero": true
+        }
+      },
+      "The Avengers": {
+        "Robert Downey Jr": {
+          "time": 1935,
+          "gender": "men",
+          "hero": true
+        }
+      },
+      "Iron Man 3": {
+        "Robert Downey Jr": {
+          "time": 3735,
+          "gender": "men",
+          "hero": true
+        }
+      },
+      "Avengers: Age Of Ultron": {
+        "Robert Downey Jr": {
+          "time": 1635,
+          "gender": "men",
+          "hero": true
+        }
+      },
+      "Captain America: Civil War": {
+        "Robert Downey Jr": {
+          "time": 2235,
+          "gender": "men",
+          "hero": true
+        }
+      }
+    }
+  },
+  {
+    "name": "Steve Rogers/Captain America",
+    "appearances": {
+      "Captain America: The First Avenger": {
+        "Chris Evans": {
+          "time": 3390,
+          "gender": "men",
+          "hero": true
+        }
+      },
+      "The Avengers": {
+        "Chris Evans": {
+          "time": 1695,
+          "gender": "men",
+          "hero": true
+        }
+      },
+      "Captain America: The Winter Soldier": {
+        "Chris Evans": {
+          "time": 3540,
+          "gender": "men",
+          "hero": true
+        }
+      },
+      "Avengers: Age Of Ultron": {
+        "Chris Evans": {
+          "time": 1305,
+          "gender": "men",
+          "hero": true
+        }
+      },
+      "Ant Man": {
+        "Chris Evans": {
+          "time": 30,
+          "gender": "men",
+          "hero": true
+        }
+      },
+      "Captain America: Civil War": {
+        "Chris Evans": {
+          "time": 2295,
+          "gender": "men",
+          "hero": true
+        }
+      }
+    }
+  },
+  {
+    "name": "Thor",
+    "appearances": {
+      "Thor": {
+        "Chris Hemsworth": {
+          "time": 2595,
+          "gender": "men",
+          "hero": true
+        }
+      },
+      "The Avengers": {
+        "Chris Hemsworth": {
+          "time": 1080,
+          "gender": "men",
+          "hero": true
+        }
+      },
+      "Thor: The Dark World": {
+        "Chris Hemsworth": {
+          "time": 2100,
+          "gender": "men",
+          "hero": true
+        }
+      },
+      "Avengers: Age Of Ultron": {
+        "Chris Hemsworth": {
+          "time": 795,
+          "gender": "men",
+          "hero": true
+        }
+      },
+      "Doctor Strange": {
+        "Chris Hemsworth": {
+          "time": 45,
+          "gender": "men",
+          "hero": true
+        }
+      }
+    }
+  },
+  {
+    "name": "Bruce Banner/Incredible Hulk",
+    "appearances": {
+      "The Incredible Hulk": {
+        "Edward Norton": {
+          "time": 3105,
+          "gender": "men",
+          "hero": true
+        }
+      },
+      "The Avengers": {
+        "Mark Ruffalo": {
+          "time": 1335,
+          "gender": "men",
+          "hero": true
+        }
+      },
+      "Iron Man 3": {
+        "Mark Ruffalo": {
+          "time": 45,
+          "gender": "men",
+          "hero": true
+        }
+      },
+      "Avengers: Age Of Ultron": {
+        "Mark Ruffalo": {
+          "time": 1200,
+          "gender": "men",
+          "hero": true
+        }
+      }
+    }
+  },
+  {
+    "name": "Natasha Romanoff/Black Widow",
+    "appearances": {
+      "Iron Man 2": {
+        "Scarlett Johansson": {
+          "time": 555,
+          "gender": "women",
+          "hero": true
+        }
+      },
+      "The Avengers": {
+        "Scarlett Johansson": {
+          "time": 1485,
+          "gender": "women",
+          "hero": true
+        }
+      },
+      "Captain America: The Winter Soldier": {
+        "Scarlett Johansson": {
+          "time": 1485,
+          "gender": "women",
+          "hero": true
+        }
+      },
+      "Avengers: Age Of Ultron": {
+        "Scarlett Johansson": {
+          "time": 1080,
+          "gender": "women",
+          "hero": true
+        }
+      },
+      "Captain America: Civil War": {
+        "Scarlett Johansson": {
+          "time": 720,
+          "gender": "women",
+          "hero": true
+        }
+      }
+    }
+  },
+  {
+    "name": "Peter Quill/Star Lord",
+    "appearances": {
+      "Guardians Of The Galaxy": {
+        "Chris Pratt": {
+          "time": 2805,
+          "gender": "men",
+          "hero": true
+        }
+      },
+      "Guardians Of The Galaxy Vol. 2": {
+        "Chris Pratt": {
+          "time": 2235,
+          "gender": "men",
+          "hero": true
+        }
+      }
+    }
+  },
+  {
+    "name": "Dr. Stephen Strange",
+    "appearances": {
+      "Doctor Strange": {
+        "Benedict Cumberbatch": {
+          "time": 4410,
+          "gender": "men",
+          "hero": true
+        }
+      }
+    }
+  },
+  {
+    "name": "Pepper Potts",
+    "appearances": {
+      "Iron Man": {
+        "Gwyneth Paltrow": {
+          "time": 1395,
+          "gender": "women",
+          "hero": false
+        }
+      },
+      "Iron Man 2": {
+        "Gwyneth Paltrow": {
+          "time": 1050,
+          "gender": "women",
+          "hero": false
+        }
+      },
+      "The Avengers": {
+        "Gwyneth Paltrow": {
+          "time": 270,
+          "gender": "women",
+          "hero": false
+        }
+      },
+      "Iron Man 3": {
+        "Gwyneth Paltrow": {
+          "time": 1080,
+          "gender": "women",
+          "hero": false
+        }
+      }
+    }
+  },
+  {
+    "name": "Scott Lang/Ant-Man",
+    "appearances": {
+      "Ant Man": {
+        "Paul Rudd": {
+          "time": 3030,
+          "gender": "men",
+          "hero": true
+        }
+      },
+      "Captain America: Civil War": {
+        "Paul Rudd": {
+          "time": 330,
+          "gender": "men",
+          "hero": true
+        }
+      }
+    }
+  },
+  {
+    "name": "Gamora",
+    "appearances": {
+      "Guardians Of The Galaxy": {
+        "Zoe Saldana": {
+          "time": 1860,
+          "gender": "women",
+          "hero": true
+        }
+      },
+      "Guardians Of The Galaxy Vol. 2": {
+        "Zoe Saldana": {
+          "time": 1380,
+          "gender": "women",
+          "hero": true
+        }
+      }
+    }
+  },
+  {
+    "name": "Col. James 'Rhodey' Rhodes",
+    "appearances": {
+      "Iron Man": {
+        "Terrence Howard": {
+          "time": 495,
+          "gender": "men",
+          "hero": false
+        }
+      },
+      "Iron Man 2": {
+        "Don Cheadle": {
+          "time": 1125,
+          "gender": "men",
+          "hero": true
+        }
+      },
+      "Iron Man 3": {
+        "Don Cheadle": {
+          "time": 585,
+          "gender": "men",
+          "hero": true
+        }
+      },
+      "Avengers: Age Of Ultron": {
+        "Don Cheadle": {
+          "time": 150,
+          "gender": "men",
+          "hero": true
+        }
+      },
+      "Captain America: Civil War": {
+        "Don Cheadle": {
+          "time": 435,
+          "gender": "men",
+          "hero": true
+        }
+      }
+    }
+  },
+  {
+    "name": "Nick Fury",
+    "appearances": {
+      "Iron Man": {
+        "Samuel L. Jackson": {
+          "time": 15,
+          "gender": "men",
+          "hero": true
+        }
+      },
+      "Iron Man 2": {
+        "Samuel L. Jackson": {
+          "time": 330,
+          "gender": "men",
+          "hero": true
+        }
+      },
+      "Thor": {
+        "Samuel L. Jackson": {
+          "time": 45,
+          "gender": "men",
+          "hero": true
+        }
+      },
+      "Captain America: The First Avenger": {
+        "Samuel L. Jackson": {
+          "time": 30,
+          "gender": "men",
+          "hero": true
+        }
+      },
+      "The Avengers": {
+        "Samuel L. Jackson": {
+          "time": 1095,
+          "gender": "men",
+          "hero": true
+        }
+      },
+      "Captain America: The Winter Soldier": {
+        "Samuel L. Jackson": {
+          "time": 930,
+          "gender": "men",
+          "hero": true
+        }
+      },
+      "Avengers: Age Of Ultron": {
+        "Samuel L. Jackson": {
+          "time": 180,
+          "gender": "men",
+          "hero": true
+        }
+      }
+    }
+  },
+  {
+    "name": "Bucky Barnes",
+    "appearances": {
+      "Captain America: The First Avenger": {
+        "Sebastian Stan": {
+          "time": 480,
+          "gender": "men",
+          "hero": true
+        }
+      },
+      "Captain America: The Winter Soldier": {
+        "Sebastian Stan": {
+          "time": 795,
+          "gender": "men",
+          "hero": true
+        }
+      },
+      "Ant Man": {
+        "Sebastian Stan": {
+          "time": 15,
+          "gender": "men",
+          "hero": true
+        }
+      },
+      "Captain America: Civil War": {
+        "Sebastian Stan": {
+          "time": 1320,
+          "gender": "men",
+          "hero": true
+        }
+      }
+    }
+  },
+  {
+    "name": "Rocket Raccoon",
+    "appearances": {
+      "Guardians Of The Galaxy": {
+        "Bradley Cooper": {
+          "time": 1170,
+          "gender": "men",
+          "hero": true
+        }
+      },
+      "Guardians Of The Galaxy Vol. 2": {
+        "Bradley Cooper": {
+          "time": 1170,
+          "gender": "men",
+          "hero": true
+        }
+      }
+    }
+  },
+  {
+    "name": "Drax the Destroyer",
+    "appearances": {
+      "Guardians Of The Galaxy": {
+        "Dave Bautista": {
+          "time": 1080,
+          "gender": "men",
+          "hero": true
+        }
+      },
+      "Guardians Of The Galaxy Vol. 2": {
+        "Dave Bautista": {
+          "time": 1020,
+          "gender": "men",
+          "hero": true
+        }
+      }
+    }
+  },
+  {
+    "name": "Clint Barton/Hawkeye",
+    "appearances": {
+      "Thor": {
+        "Jeremy Renner": {
+          "time": 30,
+          "gender": "men",
+          "hero": true
+        }
+      },
+      "The Avengers": {
+        "Jeremy Renner": {
+          "time": 765,
+          "gender": "men",
+          "hero": true
+        }
+      },
+      "Avengers: Age Of Ultron": {
+        "Jeremy Renner": {
+          "time": 900,
+          "gender": "men",
+          "hero": true
+        }
+      },
+      "Captain America: Civil War": {
+        "Jeremy Renner": {
+          "time": 255,
+          "gender": "men",
+          "hero": true
+        }
+      }
+    }
+  },
+  {
+    "name": "Groot",
+    "appearances": {
+      "Guardians Of The Galaxy": {
+        "Vin Diesel": {
+          "time": 930,
+          "gender": "men",
+          "hero": true
+        }
+      },
+      "Guardians Of The Galaxy Vol. 2": {
+        "Vin Diesel": {
+          "time": 915,
+          "gender": "men",
+          "hero": true
+        }
+      }
+    }
+  },
+  {
+    "name": "Sam Wilson/Falcon",
+    "appearances": {
+      "Captain America: The Winter Soldier": {
+        "Anthony Mackie": {
+          "time": 855,
+          "gender": "men",
+          "hero": true
+        }
+      },
+      "Avengers: Age Of Ultron": {
+        "Anthony Mackie": {
+          "time": 45,
+          "gender": "men",
+          "hero": true
+        }
+      },
+      "Ant Man": {
+        "Anthony Mackie": {
+          "time": 165,
+          "gender": "men",
+          "hero": true
+        }
+      },
+      "Captain America: Civil War": {
+        "Anthony Mackie": {
+          "time": 615,
+          "gender": "men",
+          "hero": true
+        }
+      }
+    }
+  },
+  {
+    "name": "Hank Pym/Ant-Man",
+    "appearances": {
+      "Ant Man": {
+        "Michael Douglas": {
+          "time": 1485,
+          "gender": "men",
+          "hero": true
+        }
+      }
+    }
+  },
+  {
+    "name": "Wanda Maximoff/Scarlet Witch",
+    "appearances": {
+      "Captain America: The Winter Soldier": {
+        "Elizabeth Olsen": {
+          "time": 15,
+          "gender": "women",
+          "hero": true
+        }
+      },
+      "Avengers: Age Of Ultron": {
+        "Elizabeth Olsen": {
+          "time": 720,
+          "gender": "women",
+          "hero": true
+        }
+      },
+      "Captain America: Civil War": {
+        "Elizabeth Olsen": {
+          "time": 645,
+          "gender": "women",
+          "hero": true
+        }
+      }
+    }
+  },
+  {
+    "name": "Yondu Udonta",
+    "appearances": {
+      "Guardians Of The Galaxy": {
+        "Michael Rooker": {
+          "time": 360,
+          "gender": "men",
+          "hero": false
+        }
+      },
+      "Guardians Of The Galaxy Vol. 2": {
+        "Michael Rooker": {
+          "time": 975,
+          "gender": "men",
+          "hero": false
+        }
+      }
+    }
+  },
+  {
+    "name": "Agent Peggy Carter",
+    "appearances": {
+      "Captain America: The First Avenger": {
+        "Hayley Atwell": {
+          "time": 1035,
+          "gender": "women",
+          "hero": false
+        }
+      },
+      "Captain America: The Winter Soldier": {
+        "Hayley Atwell": {
+          "time": 135,
+          "gender": "women",
+          "hero": false
+        }
+      },
+      "Avengers: Age Of Ultron": {
+        "Hayley Atwell": {
+          "time": 15,
+          "gender": "women",
+          "hero": false
+        }
+      },
+      "Ant Man": {
+        "Hayley Atwell": {
+          "time": 45,
+          "gender": "women",
+          "hero": false
+        }
+      }
+    }
+  },
+  {
+    "name": "Odin",
+    "appearances": {
+      "Thor": {
+        "Anthony Hopkins": {
+          "time": 675,
+          "gender": "men",
+          "hero": false
+        }
+      },
+      "Thor: The Dark World": {
+        "Anthony Hopkins": {
+          "time": 540,
+          "gender": "men",
+          "hero": false
+        }
+      }
+    }
+  },
+  {
+    "name": "Agent Phil Coulson",
+    "appearances": {
+      "Iron Man": {
+        "Clark Gregg": {
+          "time": 225,
+          "gender": "men",
+          "hero": false
+        }
+      },
+      "Iron Man 2": {
+        "Clark Gregg": {
+          "time": 120,
+          "gender": "men",
+          "hero": false
+        }
+      },
+      "Thor": {
+        "Clark Gregg": {
+          "time": 240,
+          "gender": "men",
+          "hero": false
+        }
+      },
+      "The Avengers": {
+        "Clark Gregg": {
+          "time": 540,
+          "gender": "men",
+          "hero": false
+        }
+      }
+    }
+  },
+  {
+    "name": "Ancient One",
+    "appearances": {
+      "Doctor Strange": {
+        "Tilda Swinton": {
+          "time": 1035,
+          "gender": "women",
+          "hero": false
+        }
+      }
+    }
+  },
+  {
+    "name": "Nebula",
+    "appearances": {
+      "Guardians Of The Galaxy": {
+        "Karen Gillan": {
+          "time": 270,
+          "gender": "women",
+          "hero": false
+        }
+      },
+      "Guardians Of The Galaxy Vol. 2": {
+        "Karen Gillan": {
+          "time": 660,
+          "gender": "women",
+          "hero": false
+        }
+      }
+    }
+  },
+  {
+    "name": "Vision",
+    "appearances": {
+      "Avengers: Age Of Ultron": {
+        "Paul Bettany": {
+          "time": 375,
+          "gender": "men",
+          "hero": false
+        }
+      },
+      "Captain America: Civil War": {
+        "Paul Bettany": {
+          "time": 435,
+          "gender": "men",
+          "hero": false
+        }
+      }
+    }
+  },
+  {
+    "name": "Maria Hill",
+    "appearances": {
+      "The Avengers": {
+        "Cobie Smulders": {
+          "time": 330,
+          "gender": "women",
+          "hero": false
+        }
+      },
+      "Captain America: The Winter Soldier": {
+        "Cobie Smulders": {
+          "time": 195,
+          "gender": "women",
+          "hero": false
+        }
+      },
+      "Avengers: Age Of Ultron": {
+        "Cobie Smulders": {
+          "time": 180,
+          "gender": "women",
+          "hero": false
+        }
+      }
+    }
+  },
+  {
+    "name": "T'Challa/Black Panther",
+    "appearances": {
+      "Captain America: Civil War": {
+        "Chadwick Boseman": {
+          "time": 690,
+          "gender": "men",
+          "hero": true
+        }
+      }
+    }
+  },
+  {
+    "name": "Sif",
+    "appearances": {
+      "Thor": {
+        "Jaimie Alexander": {
+          "time": 495,
+          "gender": "women",
+          "hero": false
+        }
+      },
+      "Thor: The Dark World": {
+        "Jaimie Alexander": {
+          "time": 195,
+          "gender": "women",
+          "hero": false
+        }
+      }
+    }
+  },
+  {
+    "name": "Volstagg",
+    "appearances": {
+      "Thor": {
+        "Ray Stevenson": {
+          "time": 420,
+          "gender": "men",
+          "hero": false
+        }
+      },
+      "Thor: The Dark World": {
+        "Ray Stevenson": {
+          "time": 165,
+          "gender": "men",
+          "hero": false
+        }
+      }
+    }
+  },
+  {
+    "name": "Heimdall",
+    "appearances": {
+      "Thor": {
+        "Idris Elba": {
+          "time": 255,
+          "gender": "men",
+          "hero": false
+        }
+      },
+      "Thor: The Dark World": {
+        "Idris Elba": {
+          "time": 255,
+          "gender": "men",
+          "hero": false
+        }
+      },
+      "Avengers: Age Of Ultron": {
+        "Idris Elba": {
+          "time": 30,
+          "gender": "men",
+          "hero": false
+        }
+      }
+    }
+  },
+  {
+    "name": "Fandral",
+    "appearances": {
+      "Thor": {
+        "Josh Dallas": {
+          "time": 420,
+          "gender": "men",
+          "hero": false
+        }
+      },
+      "Thor: The Dark World": {
+        "Zachary Levi": {
+          "time": 120,
+          "gender": "men",
+          "hero": false
+        }
+      }
+    }
+  },
+  {
+    "name": "Peter Parker/Spider-Man",
+    "appearances": {
+      "Captain America: Civil War": {
+        "Tom Holland": {
+          "time": 510,
+          "gender": "men",
+          "hero": true
+        }
+      }
+    }
+  },
+  {
+    "name": "Hogun",
+    "appearances": {
+      "Thor": {
+        "Tadanobu Asano": {
+          "time": 390,
+          "gender": "men",
+          "hero": false
+        }
+      },
+      "Thor: The Dark World": {
+        "Tadanobu Asano": {
+          "time": 60,
+          "gender": "men",
+          "hero": false
+        }
+      }
+    }
+  },
+  {
+    "name": "Logan/Wolverine",
+    "appearances": {
+      "X Men": {
+        "Hugh Jackman": {
+          "time": 1830,
+          "gender": "men",
+          "hero": true
+        }
+      },
+      "X2": {
+        "Hugh Jackman": {
+          "time": 1680,
+          "gender": "men",
+          "hero": true
+        }
+      },
+      "X Men: The Last Stand": {
+        "Hugh Jackman": {
+          "time": 1365,
+          "gender": "men",
+          "hero": true
+        }
+      },
+      "X Men Origins: Wolverine": {
+        "Hugh Jackman": {
+          "time": 3030,
+          "gender": "men",
+          "hero": true
+        }
+      },
+      "X Men: First Class": {
+        "Hugh Jackman": {
+          "time": 15,
+          "gender": "men",
+          "hero": true
+        }
+      },
+      "The Wolverine": {
+        "Hugh Jackman": {
+          "time": 4470,
+          "gender": "men",
+          "hero": true
+        }
+      },
+      "X Men: Days Of Future Past": {
+        "Hugh Jackman": {
+          "time": 1710,
+          "gender": "men",
+          "hero": true
+        }
+      },
+      "X Men: Apocalypse": {
+        "Hugh Jackman": {
+          "time": 150,
+          "gender": "men",
+          "hero": true
+        }
+      },
+      "Logan": {
+        "Hugh Jackman": {
+          "time": 3780,
+          "gender": "men",
+          "hero": true
+        }
+      }
+    }
+  },
+  {
+    "name": "Professor Charles Xavier",
+    "appearances": {
+      "X Men": {
+        "Patrick Stewart": {
+          "time": 660,
+          "gender": "men",
+          "hero": true
+        }
+      },
+      "X2": {
+        "Patrick Stewart": {
+          "time": 900,
+          "gender": "men",
+          "hero": true
+        }
+      },
+      "X Men: The Last Stand": {
+        "Patrick Stewart": {
+          "time": 525,
+          "gender": "men",
+          "hero": true
+        }
+      },
+      "X Men Origins: Wolverine": {
+        "Patrick Stewart": {
+          "time": 15,
+          "gender": "men",
+          "hero": true
+        }
+      },
+      "The Wolverine": {
+        "Patrick Stewart": {
+          "time": 30,
+          "gender": "men",
+          "hero": true
+        }
+      },
+      "Logan": {
+        "Patrick Stewart": {
+          "time": 1065,
+          "gender": "men",
+          "hero": true
+        }
+      },
+      "X Men: First Class": {
+        "James McAvoy": {
+          "time": 2070,
+          "gender": "men",
+          "hero": true
+        }
+      },
+      "X Men: Days Of Future Past": {
+        "James McAvoy": {
+          "time": 1905,
+          "gender": "men",
+          "hero": true
+        }
+      },
+      "X Men: Apocalypse": {
+        "James McAvoy": {
+          "time": 1335,
+          "gender": "men",
+          "hero": true
+        }
+      }
+    }
+  },
+  {
+    "name": "Erik Lehnsherr/Magneto",
+    "appearances": {
+      "X Men": {
+        "Ian McKellen": {
+          "time": 855,
+          "gender": "men",
+          "hero": false
+        }
+      },
+      "X2": {
+        "Ian McKellen": {
+          "time": 540,
+          "gender": "men",
+          "hero": false
+        }
+      },
+      "X Men: The Last Stand": {
+        "Ian McKellen": {
+          "time": 870,
+          "gender": "men",
+          "hero": false
+        }
+      },
+      "The Wolverine": {
+        "Ian McKellen": {
+          "time": 45,
+          "gender": "men",
+          "hero": false
+        }
+      },
+      "X Men: First Class": {
+        "Michael Fassbender": {
+          "time": 2250,
+          "gender": "men",
+          "hero": false
+        }
+      },
+      "X Men: Days Of Future Past": {
+        "Michael Fassbender": {
+          "time": 1185,
+          "gender": "men",
+          "hero": false
+        }
+      },
+      "X Men: Apocalypse": {
+        "Michael Fassbender": {
+          "time": 1065,
+          "gender": "men",
+          "hero": false
+        }
+      }
+    }
+  },
+  {
+    "name": "Wade Wilson/Deadpool",
+    "appearances": {
+      "X Men Origins: Wolverine": {
+        "Ryan Reynolds": {
+          "time": 300,
+          "gender": "men",
+          "hero": true
+        }
+      },
+      "Deadpool": {
+        "Ryan Reynolds": {
+          "time": 4740,
+          "gender": "men",
+          "hero": true
+        }
+      }
+    }
+  },
+  {
+    "name": "Raven Darkholme/Mystique",
+    "appearances": {
+      "X Men": {
+        "Rebecca Romijn": {
+          "time": 375,
+          "gender": "women",
+          "hero": true
+        }
+      },
+      "X2": {
+        "Rebecca Romijn": {
+          "time": 675,
+          "gender": "women",
+          "hero": true
+        }
+      },
+      "X Men: The Last Stand": {
+        "Rebecca Romijn": {
+          "time": 165,
+          "gender": "women",
+          "hero": true
+        }
+      },
+      "X Men: First Class": {
+        "Jennifer Lawrence": {
+          "time": 1215,
+          "gender": "women",
+          "hero": true
+        }
+      },
+      "X Men: Days Of Future Past": {
+        "Jennifer Lawrence": {
+          "time": 945,
+          "gender": "women",
+          "hero": true
+        }
+      },
+      "X Men: Apocalypse": {
+        "Jennifer Lawrence": {
+          "time": 1065,
+          "gender": "women",
+          "hero": true
+        }
+      }
+    }
+  },
+  {
+    "name": "Jean Grey",
+    "appearances": {
+      "X Men": {
+        "Famke Janssen": {
+          "time": 675,
+          "gender": "women",
+          "hero": true
+        }
+      },
+      "X2": {
+        "Famke Janssen": {
+          "time": 795,
+          "gender": "women",
+          "hero": true
+        }
+      },
+      "X Men: The Last Stand": {
+        "Famke Janssen": {
+          "time": 810,
+          "gender": "women",
+          "hero": true
+        }
+      },
+      "The Wolverine": {
+        "Famke Janssen": {
+          "time": 150,
+          "gender": "women",
+          "hero": true
+        }
+      },
+      "X Men: Days Of Future Past": {
+        "Sophie Turner": {
+          "time": 60,
+          "gender": "women",
+          "hero": true
+        }
+      },
+      "X Men: Apocalypse": {
+        "Sophie Turner": {
+          "time": 930,
+          "gender": "women",
+          "hero": true
+        }
+      }
+    }
+  },
+  {
+    "name": "Dr. Henry 'Hank' McCoy/Beast",
+    "appearances": {
+      "X2": {
+        "Steve Bacic": {
+          "time": 15,
+          "gender": "men",
+          "hero": true
+        }
+      },
+      "X Men: The Last Stand": {
+        "Kelsey Grammer": {
+          "time": 450,
+          "gender": "men",
+          "hero": true
+        }
+      },
+      "X Men: First Class": {
+        "Nicholas Hoult": {
+          "time": 885,
+          "gender": "men",
+          "hero": true
+        }
+      },
+      "X Men: Days Of Future Past": {
+        "Nicholas Hoult": {
+          "time": 750,
+          "gender": "men",
+          "hero": true
+        }
+      },
+      "X Men: Apocalypse": {
+        "Nicholas Hoult": {
+          "time": 780,
+          "gender": "men",
+          "hero": true
+        }
+      }
+    }
+  },
+  {
+    "name": "Ororo Munroe/Storm",
+    "appearances": {
+      "X Men": {
+        "Halle Berry": {
+          "time": 465,
+          "gender": "women",
+          "hero": true
+        }
+      },
+      "X2": {
+        "Halle Berry": {
+          "time": 630,
+          "gender": "women",
+          "hero": true
+        }
+      },
+      "X Men: The Last Stand": {
+        "Halle Berry": {
+          "time": 630,
+          "gender": "women",
+          "hero": true
+        }
+      },
+      "X Men: Days Of Future Past": {
+        "Alexandra Shipp": {
+          "time": 105,
+          "gender": "women",
+          "hero": true
+        }
+      },
+      "X Men: Apocalypse": {
+        "Alexandra Shipp": {
+          "time": 465,
+          "gender": "women",
+          "hero": true
+        }
+      }
+    }
+  },
+  {
+    "name": "Scott Summers/Cyclops",
+    "appearances": {
+      "X Men": {
+        "James Marsden": {
+          "time": 510,
+          "gender": "men",
+          "hero": true
+        }
+      },
+      "X2": {
+        "James Marsden": {
+          "time": 465,
+          "gender": "men",
+          "hero": true
+        }
+      },
+      "X Men: The Last Stand": {
+        "James Marsden": {
+          "time": 225,
+          "gender": "men",
+          "hero": true
+        }
+      },
+      "X Men Origins: Wolverine": {
+        "Tim Pocock": {
+          "time": 135,
+          "gender": "men",
+          "hero": true
+        }
+      },
+      "X Men: Days Of Future Past": {
+        "Tye Sheridan": {
+          "time": 15,
+          "gender": "men",
+          "hero": true
+        }
+      },
+      "X Men: Apocalypse": {
+        "Tye Sheridan": {
+          "time": 855,
+          "gender": "men",
+          "hero": true
+        }
+      }
+    }
+  },
+  {
+    "name": "Laura Kinney/X-23",
+    "appearances": {
+      "Logan": {
+        "Dafne Keen": {
+          "time": 1860,
+          "gender": "women",
+          "hero": true
+        }
+      }
+    }
+  },
+  {
+    "name": "Rogue",
+    "appearances": {
+      "X Men": {
+        "Anna Paquin": {
+          "time": 975,
+          "gender": "women",
+          "hero": true
+        }
+      },
+      "X2": {
+        "Anna Paquin": {
+          "time": 540,
+          "gender": "women",
+          "hero": true
+        }
+      },
+      "X Men: The Last Stand": {
+        "Anna Paquin": {
+          "time": 240,
+          "gender": "women",
+          "hero": true
+        }
+      },
+      "X Men: Days Of Future Past": {
+        "Anna Paquin": {
+          "time": 15,
+          "gender": "women",
+          "hero": true
+        }
+      }
+    }
+  },
+  {
+    "name": "Kurt Wagner/Nightcrawler",
+    "appearances": {
+      "X2": {
+        "Alan Cumming": {
+          "time": 570,
+          "gender": "men",
+          "hero": true
+        }
+      },
+      "X Men: Apocalypse": {
+        "Alan Cumming": {
+          "time": 585,
+          "gender": "men",
+          "hero": true
+        }
+      }
+    }
+  },
+  {
+    "name": "Bobby Drake/Iceman",
+    "appearances": {
+      "X Men": {
+        "Shawn Ashmore": {
+          "time": 60,
+          "gender": "men",
+          "hero": true
+        }
+      },
+      "X2": {
+        "Shawn Ashmore": {
+          "time": 570,
+          "gender": "men",
+          "hero": true
+        }
+      },
+      "X Men: The Last Stand": {
+        "Shawn Ashmore": {
+          "time": 375,
+          "gender": "men",
+          "hero": true
+        }
+      },
+      "X Men: Days Of Future Past": {
+        "Shawn Ashmore": {
+          "time": 150,
+          "gender": "men",
+          "hero": true
+        }
+      }
+    }
+  },
+  {
+    "name": "Alex Summers/Havok",
+    "appearances": {
+      "X Men: First Class": {
+        "Lucas Till": {
+          "time": 555,
+          "gender": "men",
+          "hero": true
+        }
+      },
+      "X Men: Days Of Future Past": {
+        "Lucas Till": {
+          "time": 60,
+          "gender": "men",
+          "hero": true
+        }
+      },
+      "X Men: Apocalypse": {
+        "Lucas Till": {
+          "time": 315,
+          "gender": "men",
+          "hero": true
+        }
+      }
+    }
+  },
+  {
+    "name": "Pietro Maximoff/Quicksilver",
+    "appearances": {
+      "Captain America: The Winter Soldier": {
+        "Aaron Taylor-Johnson": {
+          "time": 15,
+          "gender": "men",
+          "hero": true
+        }
+      },
+      "Avengers: Age Of Ultron": {
+        "Aaron Taylor-Johnson": {
+          "time": 600,
+          "gender": "men",
+          "hero": true
+        }
+      },
+      "X Men: Days Of Future Past": {
+        "Evan Peters": {
+          "time": 330,
+          "gender": "men",
+          "hero": true
+        }
+      },
+      "X Men: Apocalypse": {
+        "Evan Peters": {
+          "time": 570,
+          "gender": "men",
+          "hero": true
+        }
+      }
+    }
+  },
+  {
+    "name": "Kitty Pryde",
+    "appearances": {
+      "X Men": {
+        "Sumela Kay": {
+          "time": 30,
+          "gender": "women",
+          "hero": true
+        }
+      },
+      "X2": {
+        "Sumela Kay": {
+          "time": 15,
+          "gender": "women",
+          "hero": true
+        }
+      },
+      "X Men: The Last Stand": {
+        "Ellen Page": {
+          "time": 300,
+          "gender": "men",
+          "hero": true
+        }
+      },
+      "X Men: Days Of Future Past": {
+        "Ellen Page": {
+          "time": 300,
+          "gender": "men",
+          "hero": true
+        }
+      }
+    }
+  },
+  {
+    "name": "Caliban",
+    "appearances": {
+      "X Men: Apocalypse": {
+        "Tómas Lemarquis": {
+          "time": 105,
+          "gender": "men",
+          "hero": true
+        }
+      },
+      "Logan": {
+        "Stephen Merchant": {
+          "time": 510,
+          "gender": "men",
+          "hero": true
+        }
+      }
+    }
+  },
+  {
+    "name": "Piotr Rasputin/Colossus",
+    "appearances": {
+      "X2": {
+        "Daniel Cudmore": {
+          "time": 60,
+          "gender": "men",
+          "hero": true
+        }
+      },
+      "X Men: The Last Stand": {
+        "Daniel Cudmore": {
+          "time": 120,
+          "gender": "men",
+          "hero": true
+        }
+      },
+      "X Men: Days Of Future Past": {
+        "Daniel Cudmore": {
+          "time": 90,
+          "gender": "men",
+          "hero": true
+        }
+      },
+      "Deadpool": {
+        "Stefan Kapičić": {
+          "time": 315,
+          "gender": "men",
+          "hero": true
+        }
+      }
+    }
+  },
+  {
+    "name": "Warren Worthington III/Archangel",
+    "appearances": {
+      "X Men: The Last Stand": {
+        "Ben Foster": {
+          "time": 165,
+          "gender": "men",
+          "hero": true
+        }
+      },
+      "X Men: Apocalypse": {
+        "Ben Hardy": {
+          "time": 360,
+          "gender": "men",
+          "hero": true
+        }
+      }
+    }
+  },
+  {
+    "name": "Sean Cassidy/Banshee",
+    "appearances": {
+      "X Men: First Class": {
+        "Caleb Landry Jones": {
+          "time": 495,
+          "gender": "men",
+          "hero": true
+        }
+      }
+    }
+  },
+  {
+    "name": "Emma Frost",
+    "appearances": {
+      "X Men: First Class": {
+        "January Jones": {
+          "time": 435,
+          "gender": "women",
+          "hero": false
+        }
+      }
+    }
+  },
+  {
+    "name": "Psylocke",
+    "appearances": {
+      "X Men: The Last Stand": {
+        "Mei Melançon": {
+          "time": 45,
+          "gender": "women",
+          "hero": true
+        }
+      },
+      "X Men: Apocalypse": {
+        "Olivia Munn": {
+          "time": 360,
+          "gender": "women",
+          "hero": true
+        }
+      }
+    }
+  },
+  {
+    "name": "Angel Salvadore/Tempest",
+    "appearances": {
+      "X Men: First Class": {
+        "Zoë Kravitz": {
+          "time": 360,
+          "gender": "women",
+          "hero": true
+        }
+      }
+    }
+  },
+  {
+    "name": "Jack Hammer/Weasel",
+    "appearances": {
+      "Deadpool": {
+        "T.J. Miller": {
+          "time": 330,
+          "gender": "men",
+          "hero": false
+        }
+      }
+    }
+  },
+  {
+    "name": "Remy LeBeau/Gambit",
+    "appearances": {
+      "X Men Origins: Wolverine": {
+        "Taylor Kitsch": {
+          "time": 255,
+          "gender": "men",
+          "hero": true
+        }
+      }
+    }
+  },
+  {
+    "name": "Ellie Phimister/Negasonic Teenage Warhead",
+    "appearances": {
+      "Deadpool": {
+        "Brianna Hildebrand": {
+          "time": 255,
+          "gender": "men",
+          "hero": true
+        }
+      }
+    }
+  },
+  {
+    "name": "Armando Muñoz/Darwin",
+    "appearances": {
+      "X Men: First Class": {
+        "Edi Gathegi": {
+          "time": 240,
+          "gender": "men",
+          "hero": true
+        }
+      }
+    }
+  },
+  {
+    "name": "Lucas Bishop/Bishop",
+    "appearances": {
+      "X Men: Days Of Future Past": {
+        "Omar Sy": {
+          "time": 135,
+          "gender": "men",
+          "hero": true
+        }
+      }
+    }
+  },
+  {
+    "name": "Jubilation Lee/Jubilee",
+    "appearances": {
+      "X Men": {
+        "Katrina Florece": {
+          "time": 15,
+          "gender": "women",
+          "hero": true
+        }
+      },
+      "X2": {
+        "Kea Wong": {
+          "time": 15,
+          "gender": "women",
+          "hero": true
+        }
+      },
+      "X Men: Apocalypse": {
+        "Lana Condor": {
+          "time": 90,
+          "gender": "women",
+          "hero": true
+        }
+      }
+    }
+  },
+  {
+    "name": "Mantis",
+    "appearances": {
+      "Guardians Of The Galaxy Vol. 2": {
+        "Pom Klementieff": {
+          "time": 660,
+          "gender": "women",
+          "hero": false
+        }
+      }
+    }
+  }
+]
